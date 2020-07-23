@@ -2,7 +2,7 @@
 
 
 </a>
-<a href="https://www.linkedin.com/in/manjeet-kumar-22448b140/">
+<a href="https://www.linkedin.com/in/manjeetkmr18/">
   <img align="left" alt="Manjeet's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/manjeetkmr18">
@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on Flutter 
 - 🌱 I’m currently learning Flutter Development
-- 📫 How to reach me: [LinkedIn]( https://www.linkedin.com/in/manjeet-kumar-22448b140/)
+- 📫 How to reach me: [LinkedIn]( https://www.linkedin.com/in/manjeetkmr18/)
 - 😄 Pronouns: He/His
 
 
