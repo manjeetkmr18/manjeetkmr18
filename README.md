@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on Flutter 
 - 🌱 I’m currently learning Flutter Development
-- 📫 How to reach me: [LinkedIn]( https://www.linkedin.com/in/manjeetkmr18/)
+- 📫 How to reach me: [LinkedIn]( https://www.linkedin.com/in/manjeetkmr18/) or Manjeet.kmr18@gmail.com
 - 😄 Pronouns: He/His
 
 
