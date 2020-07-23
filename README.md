@@ -30,4 +30,3 @@
 <a href="https://github.com/manjeetkmr18/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetkmr18&theme=dark&hide_langs_below=1" />
 </a>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="manjeet-kumar-22448b140"><a class="LI-simple-link" href='https://in.linkedin.com/in/manjeet-kumar-22448b140?trk=profile-badge'>manjeet kumar</a></div>
