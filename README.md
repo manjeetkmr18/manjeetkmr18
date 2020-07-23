@@ -25,5 +25,8 @@
 - 🌱 I’m currently learning Flutter Development
 - 📫 How to reach me: [LinkedIn]( https://www.linkedin.com/in/manjeet-kumar-22448b140/)
 - 😄 Pronouns: He/His
--->
 
+
+<a href="https://github.com/iampawan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetkmr18&theme=dark&hide_langs_below=1" />
+</a>
