@@ -21,6 +21,8 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Flutter for Android and IOS apps development
-- 🌱 I’m currently learning Flutter Development
-- 📫 How to reach me: [LinkedIn]( https://www.linkedin.com/in/manjeetkmr18/) or Manjeet.kmr18@gmail.com
+- 🔭 I’m currently working as Flutter App Developer.
+- 🌱 I’m currently learning Go Programming Language.
+- 😄 Pronouns: He/His
+- 💬 Ask me about Flutter or wordpress, shopify stuff.
+- 📫 How to reach me: [LinkedIn]( https://www.linkedin.com/in/manjeetkmr18/) or Manjeet.kmr18@gmail.com Follow above links.
