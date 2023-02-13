@@ -21,8 +21,8 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working as Flutter App Developer.
-- 🌱 I’m currently learning Go Programming Language.
+- 🔭 I’m currently working as Full Stack Developer(Web & Mobile).
+- 🌱 I’m currently learning GO Programming Language.
 - 😄 Pronouns: He/His
-- 💬 Ask me about Flutter or wordpress, shopify stuff.
+- 💬 Ask me about Flutter or Javascript, wordpress, shopify stuff.
 - 📫 How to reach me: [LinkedIn]( https://www.linkedin.com/in/manjeetkmr18/) or Manjeet.kmr18@gmail.com Follow above links.
