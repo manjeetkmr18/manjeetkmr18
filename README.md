@@ -5,9 +5,9 @@
 <a href="https://www.linkedin.com/in/manjeetkmr18/">
   <img align="left" alt="Manjeet's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/manjeetkmr18">
+<!-- <a href="https://github.com/manjeetkmr18">
   <img align="left" alt="Manjeet's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+</a> -->
 <a href="https://www.upwork.com/o/profiles/users/~01c15f3e6f7617f5f4/">
   <img align="left" alt="Manjeet's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />
 </a>
