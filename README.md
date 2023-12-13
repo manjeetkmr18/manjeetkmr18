@@ -25,4 +25,4 @@
 - 🌱 I’m currently learning GO Programming Language.
 - 😄 Pronouns: He/His
 - 💬 Ask me about Flutter or Javascript, wordpress, shopify stuff.
-- 📫 How to reach me: [LinkedIn]( https://www.linkedin.com/in/manjeetkmr18/) or Manjeet.kmr18@gmail.com Follow above links.
+- 📫 How to reach me: [LinkedIn]( https://www.linkedin.com/in/manjeetkmr18/) or Manjeet.kmr28@gmail.com Follow above links.
