@@ -1,6 +1,9 @@
 ### Hi, I am Manjeet 👋
 
 
+
+<a href="https://www.manjeet.work/">
+  <img align="left" alt="Manjeet's Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefox.svg" />
 </a>
 <a href="https://www.linkedin.com/in/manjeetkmr18/">
   <img align="left" alt="Manjeet's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
